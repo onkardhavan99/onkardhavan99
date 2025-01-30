@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onkardhavan99
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
-- 🌱 I’m currently learning Python, SQL and Machine Learning techniques in depth
+- 👋 Hi, I’m Onkar
+- 👀 I’m a Data Scientist
+- 🌱 I work in Python, SQL and Machine Learning techniques
 - 💞️ I’m looking to collaborate on Machine Learning projects
